@@ -26,5 +26,5 @@ Telegram Desktop correctly blocks "Save As" and "Forwarding," but it fails to hi
 - **Status:** Closed as N/A / Acknowledged as client-side behavior.
 - **Public Disclosure:** April 6, 2026.
 ## Screenshots
-![Step 1](Screenshot from 2026-04-06 22-03-19.png)
+![Step 1](22-03-19.png)
 ![Step 2](image_c57684.png)
