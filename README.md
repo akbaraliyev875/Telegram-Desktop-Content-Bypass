@@ -46,6 +46,20 @@ I discovered this bypass and sent you all the evidence. My goal was to improve p
 
 ---
 
+## ⚖️ Intellectual Property & Patent Notice (Huquqiy Ogohlantirish)
+
+This specific bypass method for **Telegram Desktop v6.7.3** (utilizing OS Explorer and Cache extraction) is the intellectual property of **FROG 🇺🇿🏴‍☠️ (@akbaraliyev875)**.
+
+1. **Authorship:** The discovery, documentation, and Proof of Concept (PoC) were created independently. 
+2. **Registration Date:** **April 7, 2026 | 00:05 AM (Tashkent Time)**
+3. **Usage Restriction:** **Telegram FZ-LLC** or any third-party developers are **STRICTLY PROHIBITED** from implementing a fix or using this logic without official recognition of the author.
+4. **Authorization:** Any patch or security update that addresses this specific logic flaw must credit **akbaraliyev875** as the primary researcher.
+5. **Legal Note:** This is a registered digital discovery on the GitHub blockchain. Any attempt to claim this as an "internal fix" will be challenged.
+
+> **"You can't fix what you don't own. I own the bypass."** — FROG 🇺🇿
+
+---
+
 ## 🛠 Technical Analysis
 Telegram restricts content at the UI level, but once a file is downloaded into the **OS Cache**, it can be easily copied using system-level functions.
 
