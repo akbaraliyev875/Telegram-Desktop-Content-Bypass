@@ -81,3 +81,6 @@ This project is a message from Gulistan (Sirdaryo, Uzbekistan) to the cybersecur
 - **Status:** Independent Security Researcher
 
 *"Where there is no justice, we bring the truth."* 🇺🇿🚩
+## ⭐ 200 stars = men Telegram'ga qarshi video tayyorlayman
+## ⭐ 1000 stars = men o'zbek tilida podkast chiqaraman
+## ⭐ 5000 stars = men Toshkentda meetup o'tkazaman
